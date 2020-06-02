@@ -4,7 +4,7 @@
 #
 Name     : perl-Devel-OverrideGlobalRequire
 Version  : 0.001
-Release  : 3
+Release  : 4
 URL      : https://cpan.metacpan.org/authors/id/D/DA/DAGOLDEN/Devel-OverrideGlobalRequire-0.001.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/D/DA/DAGOLDEN/Devel-OverrideGlobalRequire-0.001.tar.gz
 Summary  : 'Override CORE::GLOBAL::require safely'
@@ -98,4 +98,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.2/Devel/OverrideGlobalRequire.pm
+/usr/lib/perl5/vendor_perl/5.30.3/Devel/OverrideGlobalRequire.pm
