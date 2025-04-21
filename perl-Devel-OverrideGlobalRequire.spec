@@ -7,7 +7,7 @@
 #
 Name     : perl-Devel-OverrideGlobalRequire
 Version  : 0.001
-Release  : 23
+Release  : 24
 URL      : https://cpan.metacpan.org/authors/id/D/DA/DAGOLDEN/Devel-OverrideGlobalRequire-0.001.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/D/DA/DAGOLDEN/Devel-OverrideGlobalRequire-0.001.tar.gz
 Summary  : 'Override CORE::GLOBAL::require safely'
